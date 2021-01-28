@@ -1,13 +1,16 @@
 {
 	"folders": [
 		{
+			"path": "../udemy web dev/bootstrap projects"
+		},
+		{
 			"path": "."
 		},
 		{
-			"path": "../myProjects/myWebsite"
+			"path": "../udemy web dev/DOM"
 		},
 		{
-			"path": "../udemy web dev/personal website"
+			"path": "../myProjects/loopstudios-landing-page-main"
 		}
 	],
 	"settings": {}
